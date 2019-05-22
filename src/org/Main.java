@@ -1,4 +1,4 @@
-package lab.jfx;
+package org;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -7,7 +7,7 @@ import javafx.scene.layout.*;
 import javafx.stage.Stage;
 import javafx.event.*;
 
-public class JFX extends Application{
+public class Main extends Application{
     Label response;
          static Button baget=new Button("Zhmi");
          Button sushka=new Button("Poimai");
